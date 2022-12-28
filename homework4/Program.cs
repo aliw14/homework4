@@ -33,6 +33,9 @@ class Program
                 break;
         
         }
+
+        if (isDifferenceDigit)
+            Console.WriteLine("muxtelif reqemlidir");
     }
 }
 
