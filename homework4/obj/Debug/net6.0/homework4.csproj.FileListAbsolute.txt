@@ -1,0 +1,15 @@
+/Users/ali/Projects/homework4/homework4/bin/Debug/net6.0/homework4
+/Users/ali/Projects/homework4/homework4/bin/Debug/net6.0/homework4.deps.json
+/Users/ali/Projects/homework4/homework4/bin/Debug/net6.0/homework4.runtimeconfig.json
+/Users/ali/Projects/homework4/homework4/bin/Debug/net6.0/homework4.dll
+/Users/ali/Projects/homework4/homework4/bin/Debug/net6.0/homework4.pdb
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.csproj.AssemblyReference.cache
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.AssemblyInfoInputs.cache
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.AssemblyInfo.cs
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.dll
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/refint/homework4.dll
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.pdb
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/homework4.genruntimeconfig.cache
+/Users/ali/Projects/homework4/homework4/obj/Debug/net6.0/ref/homework4.dll
